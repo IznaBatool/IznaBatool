@@ -17,6 +17,7 @@ I'm a **Vue.js developer with 4 years of professional experience** building sing
 
 
 ### 📌 Featured Projects
+- Coming Soon...
 
 <!--
 **IznaBatool/IznaBatool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
