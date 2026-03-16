@@ -1,18 +1,18 @@
 ## Hi, I am Izna 👋
 
-I'm a **Vue.js & React developer with 4 years of professional experience** building single‑page applications, fintech applications, dashboards, and admin panels.
+I'm a **Vue.js & React.js developer with 4 years of professional experience** building single‑page applications, fintech applications, dashboards, and admin panels.
 
 
 ### 🚀 What I do
-- Build scalable Vue 3 SPAs, fintech applications using clean component architecture
+- Build scalable Vue 3/React SPAs, fintech applications using clean component architecture
 - Develop admin dashboards with tables, filters, charts, and CRUD
-- Integrate Vue frontends with Laravel REST APIs
+- Integrate Vue/React frontends with Laravel REST APIs
 - Fix bugs, refactor legacy code, and improve performance
 
 
 ### 🧠 Tech Stack
-- **Frontend:** Vue 2 & 3, React, Typescript, Vite, Vuetify, Quasar, Vuex, Pinia, Redux, Vue Router, Tailwind CSS 
-- **Backend:** Laravel (REST APIs, Auth, File Uploads)
+- **Frontend:** Vue 2 & 3, React, Typescript, Vite, Vuetify, Quasar, MUI, Vuex, Pinia, Redux, Vue Router, Tailwind CSS. Bootstrap, HTML5, CSS3
+- **Backend:** Laravel (REST APIs, Auth, File Uploads), Node.js
 - **Tools:** Git, GitHub, Axios
 
 
