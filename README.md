@@ -1,6 +1,6 @@
 ## Hi, I am Izna 👋
 
-I'm a **Vue.js developer with 4 years of professional experience** building single‑page applications, fintech applications, dashboards, and admin panels.
+I'm a **Vue.js & React developer with 4 years of professional experience** building single‑page applications, fintech applications, dashboards, and admin panels.
 
 
 ### 🚀 What I do
